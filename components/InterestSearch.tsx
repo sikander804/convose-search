@@ -10,7 +10,7 @@ import {
 } from "react-native";
 
 const API_URL = "https://be-v2.convose.com/autocomplete/interests";
-const AUTH_TOKEN = "Jy8RZCXvvc6pZQUu2QZ2";
+const AUTH_TOKEN = "";
 
 interface InterestsSearchType {
   id: number;
